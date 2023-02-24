@@ -1,0 +1,6 @@
+client/dist
+client/node_modules
+client/package-lock.json
+web3/node_modules
+web3/package-lock.json
+web3/.env
