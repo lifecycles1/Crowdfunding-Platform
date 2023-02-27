@@ -12,5 +12,5 @@ npx tailwindcss init -p
 cd client
 npm run build
 drop dist folder into netlify
-deployed url - https://incomparable-chebakia-4f3096.netlify.app/
+deployed url - https://web3-crowdfunding-goerly.netlify.app/
 https://thirdweb.com/goerli/0x66F8C52d14b795a9f3CcE02903796Bd4fd018E3B/explorer
